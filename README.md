@@ -1,4 +1,18 @@
 # CookBook
+
+Nama Kelompok RPL :
+Achmad Sulaiman
+Dani Wahyu Buana
+M. Fadhillah Mi'roj
+Rizky Fernanda
+Sunu Bekti Prayoga
+
+Nama Kelompok PSI : 
+Dani Wahyu Buana
+Ismail Extrant 
+M. Fadhillah Mi'roj
+Rizky Fernanda
+
 Aplikasi pencarian resep masakan
 
 masukkan semua file tersebut kedalam Folder lib
