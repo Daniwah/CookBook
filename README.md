@@ -3,14 +3,14 @@
 Nama Kelompok RPL :
 Achmad Sulaiman
 Dani Wahyu Buana
-M. Fadhillah Mi'roj
+M. Fadilah Mi'roj
 Rizky Fernanda
 Sunu Bekti Prayoga
 
 Nama Kelompok PSI : 
 Dani Wahyu Buana
 Ismail Extrant 
-M. Fadhillah Mi'roj
+M. Fadilah Mi'roj
 Rizky Fernanda
 
 Aplikasi pencarian resep masakan
